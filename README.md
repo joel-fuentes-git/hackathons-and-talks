@@ -1,5 +1,5 @@
 # hackathons, talks, and other events
-Archive of hackathon work (with event details) and talks presented by me (with presentation materials).
+Archive of hackathon work (with event details) and talks presented by me (with presentation materials), along with other events attended.
 
 ## 2026
 
