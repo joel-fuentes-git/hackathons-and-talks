@@ -21,3 +21,7 @@ Video Demo - https://drive.google.com/file/d/1GxHj3LB_r2dybMft9WdBchGO5Ib-7VNr/v
 Tuesday, March 3 - https://luma.com/w6av7nwf?tk=2i3BFg
 
 Event designed for AI engineers, product leaders, and founders building in the voice space or interested in how AI is being applied to complex, real-world industries.
+
+### FINM 38800: Personas within Parameters: Fine-Tuning Lightweight Agents for Market Simulation and Emergent Dynamics with Joel Fuentes
+
+I was a guest speaker in the University of Chicago's Financial Mathematics seminar course. Codebase and presentation materials can be found here: https://github.com/joel-fuentes-git/ucfinmath
