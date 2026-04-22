@@ -31,5 +31,7 @@ Wednesday, April 22 - https://luma.com/hdnj6mkg?tk=dXPdlL
 
 Speakers:
 * Gareth Bland, Chief Data Scientist at Microsoft
+  
 * Todd Toler, Cloud Solution Architect at Microsoft
+
 ​* Nitya Narasimhan, Senior Developer Advocate at Microsoft
