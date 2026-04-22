@@ -25,3 +25,11 @@ Event designed for AI engineers, product leaders, and founders building in the v
 ### FINM 38800: Personas within Parameters: Fine-Tuning Lightweight Agents for Market Simulation and Emergent Dynamics with Joel Fuentes
 
 I was a guest speaker in the University of Chicago's Financial Mathematics seminar course. Codebase and presentation materials can be found here: https://github.com/joel-fuentes-git/ucfinmath
+
+### GitHub Copilot Dev Days - NYC
+Wednesday, April 22 - https://luma.com/hdnj6mkg?tk=dXPdlL
+
+Speakers:
+* Gareth Bland, Chief Data Scientist at Microsoft
+* Todd Toler, Cloud Solution Architect at Microsoft
+​* Nitya Narasimhan, Senior Developer Advocate at Microsoft
