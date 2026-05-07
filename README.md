@@ -32,3 +32,8 @@ Wednesday, April 22 - https://luma.com/hdnj6mkg?tk=dXPdlL
 Speakers:
 * Gareth Bland, Chief Data Scientist at Microsoft
 * Todd Toler, Cloud Solution Architect at Microsoft
+
+### Accountability and the Agent Boom
+Wednesday, May 6 - https://luma.com/7tts30xk?tk=7La9YN
+
+​Joined Parable's CEO, Adam Schwartz, plus enterprise tech and AI transformation leaders for a curated breakfast discussion during AI Agent Week 2026.
