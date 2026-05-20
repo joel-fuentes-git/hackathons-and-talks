@@ -22,7 +22,7 @@ Tuesday, March 3 - https://luma.com/w6av7nwf?tk=2i3BFg
 
 Event designed for AI engineers, product leaders, and founders building in the voice space or interested in how AI is being applied to complex, real-world industries.
 
-### FINM 38800: Personas within Parameters: Fine-Tuning Lightweight Agents for Market Simulation and Emergent Dynamics with Joel Fuentes
+### FINM 38800: Personas within Parameters: Fine-Tuning Lightweight Agents for Market Simulation and Emergent Dynamics with Joel Fuentes, PhD
 
 I was a guest speaker in the University of Chicago's Financial Mathematics seminar course. Codebase and presentation materials can be found here: https://github.com/joel-fuentes-git/ucfinmath
 
@@ -37,3 +37,8 @@ Speakers:
 Wednesday, May 6 - https://luma.com/7tts30xk?tk=7La9YN
 
 ​Joined Parable's CEO, Adam Schwartz, plus enterprise tech and AI transformation leaders for a curated breakfast discussion during AI Agent Week 2026.
+
+
+### RLVR for Finance with Joel Fuentes, PhD
+
+I was a guest speaker in the University of Chicago's Financial Mathematics seminar course. Codebase and presentation materials can be found here: https://github.com/joel-fuentes-git/rlvr-intro
