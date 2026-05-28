@@ -3,7 +3,7 @@ Archive of hackathon work (with event details) and talks presented by me (with p
 
 ## 2026
 
-### Light x Lovable x Abacum x J.P. Morgan Finance Hackathon
+### Light x Lovable x Abacum x J.P. Morgan Global Finance Hackathon Tour
 Wednesday, February 4 - https://luma.com/FinanceHackathonNewYork?tk=E6e4Ew
 
 Published PoC Demo - https://cfony-hackathon-persona-sim.lovable.app 
@@ -42,3 +42,10 @@ Wednesday, May 6 - https://luma.com/7tts30xk?tk=7La9YN
 ### RLVR for Finance with Joel Fuentes, PhD
 
 I was a guest speaker in the University of Chicago's Financial Mathematics seminar course. Codebase and presentation materials can be found here: https://github.com/joel-fuentes-git/rlvr-intro
+
+### Light x Lovable x QuantumBlack, AI by McKinsey Global Finance Hackathon Tour
+Wednesday, May 27th - https://luma.com/FinanceHackNewYork?tk=1Uahmn
+
+Published PoC Demo - https://vendo-20260527.lovable.app
+
+Presented to judges and won 2nd place. Slide deck in this directory (vendo-deck.pdf).
